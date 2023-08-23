@@ -1,0 +1,151 @@
+* {
+  border: none;
+  padding: 0px;
+}
+
+header {
+  background: linear-gradient(
+    rgb(191, 210, 85) 0%,
+    rgb(142, 185, 42) 45%,
+    rgb(114, 170, 0) 100%
+  );
+  height: 40px;
+  width: ;
+}
+
+header div {
+  display: inline-block;
+}
+
+nav {
+  display: inline-block;
+}
+
+li {
+  display: inline-block;
+}
+
+li a {
+  padding: 6px 8px;
+  margin: 0px 5px;
+  color: white;
+  text-decoration: none;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 0.8em;
+}
+
+#info a {
+  text-decoration: none;
+  padding: 6px 8px;
+  padding: 6px 8px;
+  margin: 0px 5px;
+  color: white;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 0.8em;
+}
+
+.name {
+  width: 65%;
+  margin: auto;
+}
+
+h1 {
+  text-align: left;
+  line-height: 20px;
+  color: rgb(34, 34, 34);
+  font-weight: 150;
+  font-size: 2.7rem;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+main {
+  border: 2px solid orange;
+  width: 65%;
+  margin: auto;
+  height: 200px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+section {
+  background-color: cyan;
+  height: 300px;
+  width: 50%;
+  margin: auto;
+}
+
+#top {
+  width: 65%;
+  margin: auto;
+}
+
+.bg {
+  background-color: #d8d8d8;
+  font-size: 2em;
+}
+
+.sm {
+  background-color: #d8d8d8;
+  font-size: 0.9em;
+}
+span {
+  margin: 7px;
+}
+
+span a {
+  text-decoration: none;
+  color: #008cba;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+
+#btm {
+  background-color: #f2f2f2;
+  width: 65%;
+  margin: auto;
+  border: 1px solid #dddddd;
+  margin-bottom: 20px;
+}
+
+p {
+  text-align: center;
+  padding: 5px;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+footer {
+}
+
+#topft {
+  height: 200px;
+  background-color: black;
+}
+
+#btmft {
+  height: 100px;
+}
+
+p a {
+  text-decoration: none;
+  color: #008cba;
+}
+
+#ft_box {
+  background-color: magenta;
+  width: 65%;
+  margin: auto;
+  height: 200px;
+}
+
+.ft_flex {
+  float: left;
+  width: 33%;
+}
+
+ul li a {
+  display: block;
+}
+
+.clear {
+  clear: both;
+}
